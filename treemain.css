@@ -1,0 +1,70 @@
+.black_card_2{
+    color: black;
+    background-color: rgb(201, 198, 198);
+
+}
+.black_card_8{
+    color: black;
+    background-color: rgb(201, 198, 198);
+    
+}
+.black_card_Q{
+    color: black;
+    background-color: rgb(201, 198, 198);
+}
+.black_card_J{
+    color: black;
+    background-color: rgb(201, 198, 198);
+}
+.black_card_A{
+    color: black;
+    background-color: rgb(201, 198, 198);
+}
+.black_card_10{
+    color: black;
+    background-color: rgb(201, 198, 198);
+}
+.black_card_18{
+    color: black;
+    background-color: rgb(201, 198, 198);
+}
+.red_card_3_1{
+    color: rgb(138, 34, 34);
+    background-color: rgb(201, 198, 198);
+ }
+ .red_card_9{
+    color: rgb(138, 34, 34);
+    background-color: rgb(201, 198, 198);
+ }
+ .red_card_6{
+    color: rgb(138, 34, 34);
+    background-color: rgb(201, 198, 198);
+ }
+ .red_card_A{
+    color: rgb(138, 34, 34);
+    background-color: rgb(201, 198, 198);
+ }
+ .red_card_K{
+    color: rgb(138, 34, 34);
+    background-color: rgb(201, 198, 198);
+ }
+ .red_card_3{
+    color: rgb(138, 34, 34);
+    background-color: rgb(201, 198, 198);
+    
+ }
+body{
+    background-color: rgb(223, 224, 228);
+    font-family: revert;
+    font-size: 30px;
+    padding-left: 1cm;
+    
+}
+ p{
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ h2{
+    letter-spacing: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+ }
